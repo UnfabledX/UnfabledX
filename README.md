@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UnfabledX
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in Java backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via e-mail.
 
